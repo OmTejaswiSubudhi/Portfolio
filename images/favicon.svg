@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF3D1"/>
+      <stop offset="40%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#AA771C"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0c0d12"/>
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="none" stroke="url(#gold)" stroke-width="2.5" opacity="0.6"/>
+  <circle cx="64" cy="64" r="50" fill="none" stroke="url(#gold)" stroke-width="1" stroke-dasharray="3 4" opacity="0.4"/>
+  <!-- MS Monogram -->
+  <text x="64" y="76" font-family="'Cinzel', 'Playfair Display', serif" font-size="44" font-weight="700" fill="url(#gold)" text-anchor="middle" letter-spacing="1">MS</text>
+  <!-- Tiny Microphone on Top -->
+  <path d="M64 22c1.6 0 3-1.4 3-3V16c0-1.6-1.4-3-3-3s-3 1.4-3 3v3c0 1.6 1.4 3 3 3zm5-3c0 2.8-2.2 5-5 5s-5-2.2-5-5h-2c0 3.5 2.6 6.4 6 6.9V28h2v-2.1c3.4-.5 6-3.4 6-6.9h-2z" fill="url(#gold)"/>
+</svg>
